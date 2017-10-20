@@ -6,7 +6,6 @@ namespace System;
  * Главный класс приложения
  * 
  * @author farza
- * @return void
  */
 class App
 {
